@@ -1,9 +1,12 @@
 <div align="center">
-  
-# [![](https://visitcount.itsvg.in/api?id=Ronixa584&icon=0&color=1)](https://visitcount.itsvg.in)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ronixa584)
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+##  "Concurrency is about dealing with many things at once, while parallelism is about doing many things at once."  
+#### — *Rob Pike*  
+
+---
 
 </div>

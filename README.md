@@ -4,8 +4,7 @@
 
 ---
 
-##  "Concurrency is about dealing with many things at once, while parallelism is about doing many things at once."  
-#### — *Rob Pike*  
+# Thanks  
 
 ---
 
